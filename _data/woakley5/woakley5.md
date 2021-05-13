@@ -1,7 +1,7 @@
 ---
-name: Will Oakley
-institution: University of California, Berkeley
-quote: beep boop bop
-github_user: woakley5
+name: karjout abdeslam
+institution: University of science ibn Tofail
+quote: my blades is yours !!
+github_user: karjout
 ---
 
